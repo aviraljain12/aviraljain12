@@ -20,7 +20,7 @@
 
 💡 Love solving complex problems through code and turning data into actionable insights
 
-📫 Reach me at: **[Your Email]** | Based in Uttar Pradesh, India
+📫 Reach me at: **[aviraljain905@gmail.com]** | Based in Uttar Pradesh, India
 
 ---
 
