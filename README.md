@@ -12,9 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Final Year B.Tech Student** specializing in Computer Science with a passion for **Data Analytics** and **Machine Learning**
-
-💼 **Former Intern at Adobe Systems** | Worked on real-world data analysis projects
+🎓 **Pre-Final Year B.Tech Student** specializing in Computer Science with a passion for **Data Analytics** and **Machine Learning**
 
 🔭 Currently exploring **AI/ML algorithms** and building full-stack web applications
 
@@ -88,16 +86,6 @@ Real-time notification system using **HTML/CSS** - Clean and responsive UI desig
 
 ### 🗺️ [Recotrip](https://github.com/aviraljain12/Recotrip)
 Tour Recommendation System powered by **Machine Learning** - Smart travel suggestions using classic ML algorithms
-
----
-
-## 💼 Experience
-
-**Adobe Systems India Pvt. Ltd.** - *Data Analytics Intern*  
-🔸 Worked on data-driven projects and analytics solutions
-
-**Apco Infratech Pvt. Ltd.** - *Intern*  
-🔸 Gained hands-on experience in software development
 
 ---
 
