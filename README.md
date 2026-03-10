@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Aviral+Jain;Data+Analyst+%7C+ML+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Aviral+Jain;Data+Analyst+%7C+ML+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -45,7 +45,6 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -54,7 +53,6 @@
 </p>
 
 ### Data Science & ML
-
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -63,7 +61,6 @@
 </p>
 
 ### Web Development
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -71,7 +68,6 @@
 </p>
 
 ### Tools & Platforms
-
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -85,7 +81,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aviraljain12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aviraljain12&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=aviraljain12&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
