@@ -11,23 +11,23 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-🎓 **Pre-Final Year B.Tech Student** specializing in Computer Science with a passion for **Data Analytics** and **Machine Learning**
+ **Pre-Final Year B.Tech Student** specializing in Computer Science with a passion for **Data Analytics** and **Machine Learning**
 
-🔭 Currently exploring **AI/ML algorithms** and building full-stack web applications
+ Currently exploring **AI/ML algorithms** and building full-stack web applications
 
-🌱 Learning advanced **data visualization**, **machine learning models**, and **cloud technologies**
+ Learning advanced **data visualization**, **machine learning models**, and **cloud technologies**
 
-💡 Love solving complex problems through code and turning data into actionable insights
+ Love solving complex problems through code and turning data into actionable insights
 
-🏆 **Latest Achievement Unlocked: YOLO** — Merged a pull request with a single approving review!
+ **Latest Achievement Unlocked: YOLO** — Merged a pull request with a single approving review!
 
-💫 Reach me at: **[aviraljain905@gmail.com]** | Based in Uttar Pradesh, India
+ Reach me at: **[aviraljain905@gmail.com]** | Based in Uttar Pradesh, India
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <p align="center">
   <a href="https://github.com/aviraljain12?tab=achievements">
@@ -42,7 +42,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 <p>
@@ -77,7 +77,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aviraljain12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -90,23 +90,23 @@
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-### 🎯 [SUB-TRACK](https://github.com/aviraljain12/SUB-TRACK)
+###  [SUB-TRACK](https://github.com/aviraljain12/SUB-TRACK)
 Subscription Management System built with **JavaScript** - Track and manage all your subscriptions efficiently
 
-### 🔔 [Notification System](https://github.com/aviraljain12/notification-system)
+###  [Notification System](https://github.com/aviraljain12/notification-system)
 Real-time notification system using **HTML/CSS** - Clean and responsive UI design
 
-### 🗺️ [Recotrip](https://github.com/aviraljain12/Recotrip)
+###  [Recotrip](https://github.com/aviraljain12/Recotrip)
 Tour Recommendation System powered by **Machine Learning** - Smart travel suggestions using classic ML algorithms
 
-### 📊 Sales Analytics Dashboard *(Private)*
+###  Sales Analytics Dashboard *(Private)*
 Interactive Sales Analytics Dashboard replicating **Power BI** features using the Global Superstore dataset. Star-schema data model, KPI cards, YoY growth, drill-through, and regional analytics — all in a web browser.
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aviral-jain-248502286">
